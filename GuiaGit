@@ -1,0 +1,7 @@
+- git clone (url de repo) - clona un repositorio para poder trabajar de manera local
+
+- git add . - Stagea todos los cambios para el commit de forma local
+
+- git commit -m "mensaje" - Hace un commit local con el nombre del mensaje
+
+- git push origin master - Pushea los cambios al repo remoto
